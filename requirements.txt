@@ -1,0 +1,4 @@
+scipy
+yfinance
+matplotlib
+quantstats
